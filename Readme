@@ -1,1 +1,3 @@
 
+### The main goal of this project is to perform binary classification of images in two assigned superclass pairs given to your group. 
+The robustness of the algorithm is tested against sub-class image data hidden during the training stage.
