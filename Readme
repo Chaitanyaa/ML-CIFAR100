@@ -1,5 +1,5 @@
 
-The main goal of this project is to perform binary classification of images in two assigned superclass pairs given to your group. 
+The main goal of this project is to perform binary classification of images in two assigned superclass pairs given to our group. 
 The robustness of the algorithm is tested against sub-class image data hidden during the training stage.
 Milestone 1 : Prediction on randomly selected testing images
 Milestone 2 : Prediction on one testing subclass images from each of the two superclasses
